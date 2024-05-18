@@ -1,0 +1,10 @@
+body {
+  font-family: Tahoma;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.test {
+  font-size: 96px;
+}
